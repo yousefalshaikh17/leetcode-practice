@@ -4,12 +4,7 @@
 
 
 class Solution:
-    def isPalindrome(self, s: str) -> bool:
-        # s_list = []
-        # for c in s:
-        #     if c.isalnum():
-        #         s_list.append(c.lower())
-        
+    def isPalindrome(self, s: str) -> bool:      
         L,R = 0, len(s) -1
 
         while L < R:
