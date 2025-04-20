@@ -46,6 +46,6 @@ My daily log can be found [here](daily.md).
 ## How to Use This Repo
 
 Browse problems by:
-- Date: via the [**Daily Log**](daily.md)
-- Topic: via the [**Topics**](#topics) section
+- Date: via the [**Daily Log**](daily.md) page
+- Topic: via the [**Topics**](topics.md) page
 - Or just check out the `solutions/` folder
