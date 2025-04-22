@@ -74,12 +74,14 @@ A list of all topics covered so far, each with the problems I've solved under th
 **13.** Roman to Integer: [Python](solutions/13-roman-to-integer.py)  
 **48.** Rotate Image: [Python](solutions/48-rotate-image.py)  
 **781.** Rabbits in Forest: [Python](solutions/781-rabbits-in-forest.py)  
+**2338.** Count the Number of Ideal Arrays: [Python](solutions/2338-count-the-number-of-ideal-arrays.py)  
 
 ## Dynamic Programming
 
+**42.** Trapping Rain Water: [Python](solutions/42-trapping-rain-water.py)  
 **121.** Best Time to Buy and Sell Stock: [Python](solutions/121-best-time-to-buy-and-sell-stock.py)  
 **392.** Is Subsequence: [Python](solutions/392-is-subsequence.py)  
-**42.** Trapping Rain Water: [Python](solutions/42-trapping-rain-water.py)
+**2338.** Count the Number of Ideal Arrays: [Python](solutions/2338-count-the-number-of-ideal-arrays.py)  
 
 ## Sorting
 
@@ -151,3 +153,11 @@ A list of all topics covered so far, each with the problems I've solved under th
 ## Recursion
 
 **2.** Add Two Numbers: [Python](solutions/2-add-two-numbers.py)
+
+## Combinatorics
+
+**2338.** Count the Number of Ideal Arrays: [Python](solutions/2338-count-the-number-of-ideal-arrays.py)  
+
+## Number Theory
+
+**2338.** Count the Number of Ideal Arrays: [Python](solutions/2338-count-the-number-of-ideal-arrays.py)  
