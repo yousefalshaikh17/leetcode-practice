@@ -21,8 +21,9 @@ A list of all topics covered so far, each with the problems I've solved under th
 **228.** Summary Ranges: [Python](solutions/228-summary-ranges.py)  
 **238.** Product of Array Except Self: [Python](solutions/238-product-of-array-except-self.py)  
 **682.** Baseball Game: [Python](solutions/682-baseball-game.py)  
-**781.** Rabbits in Forest: [Python](solutions/781-rabbits-in-forest.py)
+**781.** Rabbits in Forest: [Python](solutions/781-rabbits-in-forest.py)  
 **977.** Squares of a Sorted Array: [Python](solutions/977-squares-of-a-sorted-array.py)  
+**2145.** Count the Hidden Sequences: [Python](solutions/2145-count-the-hidden-sequences.py)  
 **2239.** Find Closest Number to Zero: [Python](solutions/2239-find-closest-number-to-zero.py)
 
 ## String
@@ -64,15 +65,15 @@ A list of all topics covered so far, each with the problems I've solved under th
 **242.** Valid Anagram: [Python](solutions/242-valid-anagram.py)  
 **383.** Ransom Note: [Python](solutions/383-ransom-note.py)  
 **771.** Jewels and Stones: [Python](solutions/771-jewels-and-stones.py)  
-**781.** Rabbits in Forest: [Python](solutions/781-rabbits-in-forest.py)
+**781.** Rabbits in Forest: [Python](solutions/781-rabbits-in-forest.py)  
 **1189.** Maximum Number of Balloons: [Python](solutions/1189-maximum-number-of-balloons.py)
 
 ## Math
 
-**2.** Add Two Numbers: [Python](solutions/2-add-two-numbers.py)
+**2.** Add Two Numbers: [Python](solutions/2-add-two-numbers.py)  
 **13.** Roman to Integer: [Python](solutions/13-roman-to-integer.py)  
-**48.** Rotate Image: [Python](solutions/48-rotate-image.py)
-**781.** Rabbits in Forest: [Python](solutions/781-rabbits-in-forest.py)
+**48.** Rotate Image: [Python](solutions/48-rotate-image.py)  
+**781.** Rabbits in Forest: [Python](solutions/781-rabbits-in-forest.py)  
 
 ## Dynamic Programming
 
@@ -96,7 +97,8 @@ A list of all topics covered so far, each with the problems I've solved under th
 
 ## Prefix Sum
 
-**238.** Product of Array Except Self: [Python](solutions/238-product-of-array-except-self.py)
+**238.** Product of Array Except Self: [Python](solutions/238-product-of-array-except-self.py)  
+**2145.** Count the Hidden Sequences: [Python](solutions/2145-count-the-hidden-sequences.py)  
 
 ## Simulation
 
@@ -113,7 +115,7 @@ A list of all topics covered so far, each with the problems I've solved under th
 
 **169.** Majority Element: [Python](solutions/169-majority-element.py)  
 **383.** Ransom Note: [Python](solutions/383-ransom-note.py)  
-**1189.** Maximum Number of Balloons: [Python](solutions/1189-maximum-number-of-balloons.py)
+**1189.** Maximum Number of Balloons: [Python](solutions/1189-maximum-number-of-balloons.py)  
 
 ## Divide and Conquer
 
@@ -129,8 +131,8 @@ A list of all topics covered so far, each with the problems I've solved under th
 
 ## Greedy
 
-**11.** Container With Most Water: [Python](solutions/11-container-with-most-water.py)
-**781.** Rabbits in Forest: [Python](solutions/781-rabbits-in-forest.py)
+**11.** Container With Most Water: [Python](solutions/11-container-with-most-water.py)  
+**781.** Rabbits in Forest: [Python](solutions/781-rabbits-in-forest.py)  
 
 ## Stack
 
