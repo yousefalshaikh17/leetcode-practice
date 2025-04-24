@@ -24,7 +24,8 @@ A list of all topics covered so far, each with the problems I've solved under th
 **781.** Rabbits in Forest: [Python](solutions/781-rabbits-in-forest.py)  
 **977.** Squares of a Sorted Array: [Python](solutions/977-squares-of-a-sorted-array.py)  
 **2145.** Count the Hidden Sequences: [Python](solutions/2145-count-the-hidden-sequences.py)  
-**2239.** Find Closest Number to Zero: [Python](solutions/2239-find-closest-number-to-zero.py)
+**2239.** Find Closest Number to Zero: [Python](solutions/2239-find-closest-number-to-zero.py)  
+**2799.** Count Complete Subarrays in an Array: [Python](solutions/2799-count-complete-subarrays-in-an-array.py)  
 
 ## String
 
@@ -68,6 +69,7 @@ A list of all topics covered so far, each with the problems I've solved under th
 **781.** Rabbits in Forest: [Python](solutions/781-rabbits-in-forest.py)  
 **1189.** Maximum Number of Balloons: [Python](solutions/1189-maximum-number-of-balloons.py)  
 **1399.** Count Largest Group: [Python](solutions/1399-count-largest-group.py)  
+**2799.** Count Complete Subarrays in an Array: [Python](solutions/2799-count-complete-subarrays-in-an-array.py)  
 
 ## Math
 
@@ -163,3 +165,7 @@ A list of all topics covered so far, each with the problems I've solved under th
 ## Number Theory
 
 **2338.** Count the Number of Ideal Arrays: [Python](solutions/2338-count-the-number-of-ideal-arrays.py)  
+
+## Sliding Window
+
+**2799.** Count Complete Subarrays in an Array: [Python](solutions/2799-count-complete-subarrays-in-an-array.py)  

@@ -6,3 +6,4 @@
 | 2025-04-21 | 2145. Count the Hidden Sequences  | Array, Prefix Sum | [Python](solutions/2145-count-the-hidden-sequences.py) |                      |
 | 2025-04-22 | 2338. Count the Number of Ideal Arrays  | Math, Dynamic Programming, Combinatorics, Number Theory | [Python](solutions/2338-count-the-number-of-ideal-arrays.py) |                      |
 | 2025-04-23 | 1399. Count Largest Group  | Hash Table, Math | [Python](solutions/1399-count-largest-group.py) |                      |
+| 2025-04-24 | 2799. Count Complete Subarrays in an Array  | Array, Hash Table, Sliding Window | [Python](solutions/2799-count-complete-subarrays-in-an-array.py) |                      |
