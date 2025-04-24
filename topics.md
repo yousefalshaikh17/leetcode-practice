@@ -66,7 +66,8 @@ A list of all topics covered so far, each with the problems I've solved under th
 **383.** Ransom Note: [Python](solutions/383-ransom-note.py)  
 **771.** Jewels and Stones: [Python](solutions/771-jewels-and-stones.py)  
 **781.** Rabbits in Forest: [Python](solutions/781-rabbits-in-forest.py)  
-**1189.** Maximum Number of Balloons: [Python](solutions/1189-maximum-number-of-balloons.py)
+**1189.** Maximum Number of Balloons: [Python](solutions/1189-maximum-number-of-balloons.py)  
+**1399.** Count Largest Group: [Python](solutions/1399-count-largest-group.py)  
 
 ## Math
 
@@ -74,6 +75,7 @@ A list of all topics covered so far, each with the problems I've solved under th
 **13.** Roman to Integer: [Python](solutions/13-roman-to-integer.py)  
 **48.** Rotate Image: [Python](solutions/48-rotate-image.py)  
 **781.** Rabbits in Forest: [Python](solutions/781-rabbits-in-forest.py)  
+**1399.** Count Largest Group: [Python](solutions/1399-count-largest-group.py)  
 **2338.** Count the Number of Ideal Arrays: [Python](solutions/2338-count-the-number-of-ideal-arrays.py)  
 
 ## Dynamic Programming
