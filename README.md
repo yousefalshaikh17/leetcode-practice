@@ -28,6 +28,9 @@ My daily log can be found [here](daily.md).
 - [Monotonic Stack](topics.md#monotonic-stack)
 - [Linked List](topics.md#linked-list)
 - [Recursion](topics.md#recursion)
+- [Combinatorics](topics.md#combinatorics)
+- [Number Theory](topics.md#number-theory)
+- [Sliding Window](topics.md#sliding-window)
 
 ## Practice Routine
 
