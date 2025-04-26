@@ -47,6 +47,7 @@ My daily log can be found [here](daily.md).
 - Improve problem-solving speed
 - Cover a wide range of topics
 - Improve time + space analysis
+- Solve problems using multiple languages
 
 ## How to Use This Repo
 
