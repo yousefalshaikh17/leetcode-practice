@@ -8,3 +8,4 @@
 | 2025-04-23 | 1399. Count Largest Group  | Hash Table, Math | [Python](solutions/1399-count-largest-group.py) |                      |
 | 2025-04-24 | 2799. Count Complete Subarrays in an Array  | Array, Hash Table, Sliding Window | [Python](solutions/2799-count-complete-subarrays-in-an-array.py) |                      |
 | 2025-04-25 | 2845. Count of Interesting Subarrays  | Array, Hash Table, Prefix Sum | [Python](solutions/2845-count-of-interesting-subarrays.py) |                      |
+| 2025-04-26 | 2444. Count Subarrays With Fixed Bounds  | Array, Queue, Sliding Window, Monotonic Queue | [Python](solutions/2444-count-subarrays-with-fixed-bounds.py) [C++](solutions/2444-count-subarrays-with-fixed-bounds.cpp) |                      |

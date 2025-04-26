@@ -25,6 +25,7 @@ A list of all topics covered so far, each with the problems I've solved under th
 **977.** Squares of a Sorted Array: [Python](solutions/977-squares-of-a-sorted-array.py)  
 **2145.** Count the Hidden Sequences: [Python](solutions/2145-count-the-hidden-sequences.py)  
 **2239.** Find Closest Number to Zero: [Python](solutions/2239-find-closest-number-to-zero.py)  
+**2444.** Count Subarrays With Fixed Bounds: [Python](solutions/2444-count-subarrays-with-fixed-bounds.py) | [C++](solutions/2444-count-subarrays-with-fixed-bounds.cpp) 
 **2799.** Count Complete Subarrays in an Array: [Python](solutions/2799-count-complete-subarrays-in-an-array.py)  
 **2845.** Count of Interesting Subarrays: [Python](solutions/2845-count-of-interesting-subarrays.py)  
 
@@ -149,6 +150,14 @@ A list of all topics covered so far, each with the problems I've solved under th
 **42.** Trapping Rain Water: [Python](solutions/42-trapping-rain-water.py)  
 **682.** Baseball Game: [Python](solutions/682-baseball-game.py)
 
+## Queue
+
+**2444.** Count Subarrays With Fixed Bounds: [Python](solutions/2444-count-subarrays-with-fixed-bounds.py) | [C++](solutions/2444-count-subarrays-with-fixed-bounds.cpp) 
+
+## Monotonic Queue
+
+**2444.** Count Subarrays With Fixed Bounds: [Python](solutions/2444-count-subarrays-with-fixed-bounds.py) | [C++](solutions/2444-count-subarrays-with-fixed-bounds.cpp) 
+
 ## Monotonic Stack
 
 **42.** Trapping Rain Water: [Python](solutions/42-trapping-rain-water.py)
@@ -171,4 +180,5 @@ A list of all topics covered so far, each with the problems I've solved under th
 
 ## Sliding Window
 
+**2444.** Count Subarrays With Fixed Bounds: [Python](solutions/2444-count-subarrays-with-fixed-bounds.py) | [C++](solutions/2444-count-subarrays-with-fixed-bounds.cpp) 
 **2799.** Count Complete Subarrays in an Array: [Python](solutions/2799-count-complete-subarrays-in-an-array.py)  

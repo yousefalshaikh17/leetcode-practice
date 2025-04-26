@@ -25,6 +25,8 @@ My daily log can be found [here](daily.md).
 - [Binary Search](topics.md#binary-search)
 - [Greedy](topics.md#greedy)
 - [Stack](topics.md#stack)
+- [Queue](topics.md#queue)
+- [Monotonic Queue](topics.md#monotonic-queue)
 - [Monotonic Stack](topics.md#monotonic-stack)
 - [Linked List](topics.md#linked-list)
 - [Recursion](topics.md#recursion)
