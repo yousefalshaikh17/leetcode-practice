@@ -28,6 +28,7 @@ A list of all topics covered so far, each with the problems I've solved under th
 **2444.** Count Subarrays With Fixed Bounds: [Python](solutions/2444-count-subarrays-with-fixed-bounds.py) | [C++](solutions/2444-count-subarrays-with-fixed-bounds.cpp) 
 **2799.** Count Complete Subarrays in an Array: [Python](solutions/2799-count-complete-subarrays-in-an-array.py)  
 **2845.** Count of Interesting Subarrays: [Python](solutions/2845-count-of-interesting-subarrays.py)  
+**3392.** Count Subarrays of Length Three With a Condition: [Python](solutions/3392-count-subarrays-of-length-three-with-a-condition.py) | [C++](solutions/3392-count-subarrays-of-length-three-with-a-condition.cpp) | [Java](solutions/3392-count-subarrays-of-length-three-with-a-condition.java) | [TypeScript](solutions/3392-count-subarrays-of-length-three-with-a-condition.ts)  
 
 ## String
 
