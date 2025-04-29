@@ -25,9 +25,11 @@ A list of all topics covered so far, each with the problems I've solved under th
 **977.** Squares of a Sorted Array: [Python](solutions/977-squares-of-a-sorted-array.py)  
 **2145.** Count the Hidden Sequences: [Python](solutions/2145-count-the-hidden-sequences.py)  
 **2239.** Find Closest Number to Zero: [Python](solutions/2239-find-closest-number-to-zero.py)  
-**2444.** Count Subarrays With Fixed Bounds: [Python](solutions/2444-count-subarrays-with-fixed-bounds.py) | [C++](solutions/2444-count-subarrays-with-fixed-bounds.cpp) 
+**2302.** Count Subarrays With Score Less Than K: [Python](solutions/2302-count-subarrays-with-score-less-than-k.py) | [C++](solutions/2302-count-subarrays-with-score-less-than-k.cpp)  
+**2444.** Count Subarrays With Fixed Bounds: [Python](solutions/2444-count-subarrays-with-fixed-bounds.py) | [C++](solutions/2444-count-subarrays-with-fixed-bounds.cpp)  
 **2799.** Count Complete Subarrays in an Array: [Python](solutions/2799-count-complete-subarrays-in-an-array.py)  
 **2845.** Count of Interesting Subarrays: [Python](solutions/2845-count-of-interesting-subarrays.py)  
+**2962.** Count Subarrays Where Max Element Appears at Least K Times: [Python](solutions/2962-count-subarrays-where-max-element-appears-at-least-k-times.py) | [C++](solutions/2962-count-subarrays-where-max-element-appears-at-least-k-times.cpp)  
 **3392.** Count Subarrays of Length Three With a Condition: [Python](solutions/3392-count-subarrays-of-length-three-with-a-condition.py) | [C++](solutions/3392-count-subarrays-of-length-three-with-a-condition.cpp) | [Java](solutions/3392-count-subarrays-of-length-three-with-a-condition.java) | [TypeScript](solutions/3392-count-subarrays-of-length-three-with-a-condition.ts)  
 
 ## String
@@ -109,6 +111,7 @@ A list of all topics covered so far, each with the problems I've solved under th
 
 **238.** Product of Array Except Self: [Python](solutions/238-product-of-array-except-self.py)  
 **2145.** Count the Hidden Sequences: [Python](solutions/2145-count-the-hidden-sequences.py)  
+**2302.** Count Subarrays With Score Less Than K: [Python](solutions/2302-count-subarrays-with-score-less-than-k.py) | [C++](solutions/2302-count-subarrays-with-score-less-than-k.cpp)  
 **2845.** Count of Interesting Subarrays: [Python](solutions/2845-count-of-interesting-subarrays.py)  
 
 ## Simulation
@@ -138,7 +141,8 @@ A list of all topics covered so far, each with the problems I've solved under th
 
 ## Binary Search
 
-**167.** Two Sum II - Input Array Is Sorted: [Python](solutions/167-two-sum-ii-input-array-is-sorted.py)
+**167.** Two Sum II - Input Array Is Sorted: [Python](solutions/167-two-sum-ii-input-array-is-sorted.py)  
+**2302.** Count Subarrays With Score Less Than K: [Python](solutions/2302-count-subarrays-with-score-less-than-k.py) | [C++](solutions/2302-count-subarrays-with-score-less-than-k.cpp)  
 
 ## Greedy
 
@@ -181,5 +185,7 @@ A list of all topics covered so far, each with the problems I've solved under th
 
 ## Sliding Window
 
-**2444.** Count Subarrays With Fixed Bounds: [Python](solutions/2444-count-subarrays-with-fixed-bounds.py) | [C++](solutions/2444-count-subarrays-with-fixed-bounds.cpp) 
+**2302.** Count Subarrays With Score Less Than K: [Python](solutions/2302-count-subarrays-with-score-less-than-k.py) | [C++](solutions/2302-count-subarrays-with-score-less-than-k.cpp)  
+**2444.** Count Subarrays With Fixed Bounds: [Python](solutions/2444-count-subarrays-with-fixed-bounds.py) | [C++](solutions/2444-count-subarrays-with-fixed-bounds.cpp)  
 **2799.** Count Complete Subarrays in an Array: [Python](solutions/2799-count-complete-subarrays-in-an-array.py)  
+**2962.** Count Subarrays Where Max Element Appears at Least K Times: [Python](solutions/2962-count-subarrays-where-max-element-appears-at-least-k-times.py) | [C++](solutions/2962-count-subarrays-where-max-element-appears-at-least-k-times.cpp)  
