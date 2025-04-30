@@ -23,6 +23,7 @@ A list of all topics covered so far, each with the problems I've solved under th
 **682.** Baseball Game: [Python](solutions/682-baseball-game.py)  
 **781.** Rabbits in Forest: [Python](solutions/781-rabbits-in-forest.py)  
 **977.** Squares of a Sorted Array: [Python](solutions/977-squares-of-a-sorted-array.py)  
+**1295.** Find Numbers with Even Number of Digits: [Python](solutions/1295-find-numbers-with-even-number-of-digits.py) | [C++](solutions/1295-find-numbers-with-even-number-of-digits.cpp)  
 **2145.** Count the Hidden Sequences: [Python](solutions/2145-count-the-hidden-sequences.py)  
 **2239.** Find Closest Number to Zero: [Python](solutions/2239-find-closest-number-to-zero.py)  
 **2302.** Count Subarrays With Score Less Than K: [Python](solutions/2302-count-subarrays-with-score-less-than-k.py) | [C++](solutions/2302-count-subarrays-with-score-less-than-k.cpp)  
@@ -83,6 +84,7 @@ A list of all topics covered so far, each with the problems I've solved under th
 **13.** Roman to Integer: [Python](solutions/13-roman-to-integer.py)  
 **48.** Rotate Image: [Python](solutions/48-rotate-image.py)  
 **781.** Rabbits in Forest: [Python](solutions/781-rabbits-in-forest.py)  
+**1295.** Find Numbers with Even Number of Digits: [Python](solutions/1295-find-numbers-with-even-number-of-digits.py) | [C++](solutions/1295-find-numbers-with-even-number-of-digits.cpp)  
 **1399.** Count Largest Group: [Python](solutions/1399-count-largest-group.py)  
 **2338.** Count the Number of Ideal Arrays: [Python](solutions/2338-count-the-number-of-ideal-arrays.py)  
 
