@@ -2,6 +2,11 @@
 
 Practicing one LeetCode problem every day to sharpen my problem-solving skills. Each solution includes topics for easy reference.
 
+## Features
+- Daily Log
+- Topics Section
+- Topic section is automatically regenerated in [README](README.md) and [topics](topics.md). 
+
 ## Daily Log
 
 My daily log can be found [here](daily.md).
@@ -9,30 +14,30 @@ My daily log can be found [here](daily.md).
 ## Topics
 
 - [Array](topics.md#array)
-- [String](topics.md#string)
-- [Two Pointers](topics.md#two-pointers)
-- [Hash Table](topics.md#hash-table)
-- [Math](topics.md#math)
-- [Dynamic Programming](topics.md#dynamic-programming)
-- [Sorting](topics.md#sorting)
-- [Trie](topics.md#trie)
-- [Prefix Sum](topics.md#prefix-sum)
-- [Simulation](topics.md#simulation)
-- [Matrix](topics.md#matrix)
+- [Binary Search](topics.md#binary-search)
+- [Combinatorics](topics.md#combinatorics)
 - [Counting](topics.md#counting)
 - [Divide and Conquer](topics.md#divide-and-conquer)
-- [Union Find](topics.md#union-find)
-- [Binary Search](topics.md#binary-search)
+- [Dynamic Programming](topics.md#dynamic-programming)
 - [Greedy](topics.md#greedy)
-- [Stack](topics.md#stack)
-- [Queue](topics.md#queue)
+- [Hash Table](topics.md#hash-table)
+- [Linked List](topics.md#linked-list)
+- [Math](topics.md#math)
+- [Matrix](topics.md#matrix)
 - [Monotonic Queue](topics.md#monotonic-queue)
 - [Monotonic Stack](topics.md#monotonic-stack)
-- [Linked List](topics.md#linked-list)
-- [Recursion](topics.md#recursion)
-- [Combinatorics](topics.md#combinatorics)
 - [Number Theory](topics.md#number-theory)
+- [Prefix Sum](topics.md#prefix-sum)
+- [Queue](topics.md#queue)
+- [Recursion](topics.md#recursion)
+- [Simulation](topics.md#simulation)
 - [Sliding Window](topics.md#sliding-window)
+- [Sorting](topics.md#sorting)
+- [Stack](topics.md#stack)
+- [String](topics.md#string)
+- [Trie](topics.md#trie)
+- [Two Pointers](topics.md#two-pointers)
+- [Union Find](topics.md#union-find)
 
 ## Practice Routine
 
