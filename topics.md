@@ -24,6 +24,7 @@ A list of all topics covered so far, each with the problems I've solved under th
 **781.** Rabbits in Forest: [Python](solutions/781-rabbits-in-forest.py)  
 **977.** Squares of a Sorted Array: [Python](solutions/977-squares-of-a-sorted-array.py)  
 **1295.** Find Numbers with Even Number of Digits: [Python](solutions/1295-find-numbers-with-even-number-of-digits.py) | [C++](solutions/1295-find-numbers-with-even-number-of-digits.cpp)  
+**2071.** Maximum Number of Tasks You Can Assign: [Python](solutions/2071-maximum-number-of-tasks-you-can-assign.py)  
 **2145.** Count the Hidden Sequences: [Python](solutions/2145-count-the-hidden-sequences.py)  
 **2239.** Find Closest Number to Zero: [Python](solutions/2239-find-closest-number-to-zero.py)  
 **2302.** Count Subarrays With Score Less Than K: [Python](solutions/2302-count-subarrays-with-score-less-than-k.py) | [C++](solutions/2302-count-subarrays-with-score-less-than-k.cpp)  
@@ -103,7 +104,8 @@ A list of all topics covered so far, each with the problems I've solved under th
 **169.** Majority Element: [Python](solutions/169-majority-element.py)  
 **217.** Contains Duplicate: [Python](solutions/217-contains-duplicate.py)  
 **242.** Valid Anagram: [Python](solutions/242-valid-anagram.py)  
-**977.** Squares of a Sorted Array: [Python](solutions/977-squares-of-a-sorted-array.py)
+**977.** Squares of a Sorted Array: [Python](solutions/977-squares-of-a-sorted-array.py)  
+**2071.** Maximum Number of Tasks You Can Assign: [Python](solutions/2071-maximum-number-of-tasks-you-can-assign.py)  
 
 ## Trie
 
@@ -144,12 +146,14 @@ A list of all topics covered so far, each with the problems I've solved under th
 ## Binary Search
 
 **167.** Two Sum II - Input Array Is Sorted: [Python](solutions/167-two-sum-ii-input-array-is-sorted.py)  
+**2071.** Maximum Number of Tasks You Can Assign: [Python](solutions/2071-maximum-number-of-tasks-you-can-assign.py)  
 **2302.** Count Subarrays With Score Less Than K: [Python](solutions/2302-count-subarrays-with-score-less-than-k.py) | [C++](solutions/2302-count-subarrays-with-score-less-than-k.cpp)  
 
 ## Greedy
 
 **11.** Container With Most Water: [Python](solutions/11-container-with-most-water.py)  
 **781.** Rabbits in Forest: [Python](solutions/781-rabbits-in-forest.py)  
+**2071.** Maximum Number of Tasks You Can Assign: [Python](solutions/2071-maximum-number-of-tasks-you-can-assign.py)  
 
 ## Stack
 
@@ -159,11 +163,13 @@ A list of all topics covered so far, each with the problems I've solved under th
 
 ## Queue
 
-**2444.** Count Subarrays With Fixed Bounds: [Python](solutions/2444-count-subarrays-with-fixed-bounds.py) | [C++](solutions/2444-count-subarrays-with-fixed-bounds.cpp) 
+**2071.** Maximum Number of Tasks You Can Assign: [Python](solutions/2071-maximum-number-of-tasks-you-can-assign.py)  
+**2444.** Count Subarrays With Fixed Bounds: [Python](solutions/2444-count-subarrays-with-fixed-bounds.py) | [C++](solutions/2444-count-subarrays-with-fixed-bounds.cpp)  
 
 ## Monotonic Queue
 
-**2444.** Count Subarrays With Fixed Bounds: [Python](solutions/2444-count-subarrays-with-fixed-bounds.py) | [C++](solutions/2444-count-subarrays-with-fixed-bounds.cpp) 
+**2071.** Maximum Number of Tasks You Can Assign: [Python](solutions/2071-maximum-number-of-tasks-you-can-assign.py)  
+**2444.** Count Subarrays With Fixed Bounds: [Python](solutions/2444-count-subarrays-with-fixed-bounds.py) | [C++](solutions/2444-count-subarrays-with-fixed-bounds.cpp)  
 
 ## Monotonic Stack
 
