@@ -64,6 +64,7 @@ A list of all topics covered so far, each with the problems I've solved under th
 **383.** Ransom Note: [Python](solutions\383-ransom-note.py)  
 **392.** Is Subsequence: [Python](solutions\392-is-subsequence.py)  
 **771.** Jewels and Stones: [Python](solutions\771-jewels-and-stones.py)  
+**838.** Push Dominoes: [Python](solutions\838-push-dominoes.py)  
 **1189.** Maximum Number of Balloons: [Python](solutions\1189-maximum-number-of-balloons.py)  
 **1768.** Merge Strings Alternately: [Python](solutions\1768-merge-strings-alternately.py)  
 
@@ -76,6 +77,7 @@ A list of all topics covered so far, each with the problems I've solved under th
 **167.** Two Sum II - Input Array Is Sorted: [Python](solutions\167-two-sum-ii-input-array-is-sorted.py)  
 **344.** Reverse String: [Python](solutions\344-reverse-string.py)  
 **392.** Is Subsequence: [Python](solutions\392-is-subsequence.py)  
+**838.** Push Dominoes: [Python](solutions\838-push-dominoes.py)  
 **977.** Squares of a Sorted Array: [Python](solutions\977-squares-of-a-sorted-array.py)  
 **1768.** Merge Strings Alternately: [Python](solutions\1768-merge-strings-alternately.py)  
 
@@ -105,6 +107,7 @@ A list of all topics covered so far, each with the problems I've solved under th
 **42.** Trapping Rain Water: [Python](solutions\42-trapping-rain-water.py)  
 **121.** Best Time to Buy and Sell Stock: [Python](solutions\121-best-time-to-buy-and-sell-stock.py)  
 **392.** Is Subsequence: [Python](solutions\392-is-subsequence.py)  
+**838.** Push Dominoes: [Python](solutions\838-push-dominoes.py)  
 **2338.** Count the Number of Ideal Arrays: [Python](solutions\2338-count-the-number-of-ideal-arrays.py)  
 
 ## Prefix Sum

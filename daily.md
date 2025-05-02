@@ -14,3 +14,4 @@
 | 2025-04-29 | 2962. Count Subarrays Where Max Element Appears at Least K Times  | Array, Sliding Window | [Python](solutions/2962-count-subarrays-where-max-element-appears-at-least-k-times.py) \| [C++](solutions/2962-count-subarrays-where-max-element-appears-at-least-k-times.cpp) |                      |
 | 2025-04-29 | 1295. Find Numbers with Even Number of Digits  | Array, Math | [Python](solutions/1295-find-numbers-with-even-number-of-digits.py) \| [C++](solutions/1295-find-numbers-with-even-number-of-digits.cpp) |                      |
 | 2025-05-01 | 2071. Maximum Number of Tasks You Can Assign  | Array, Binary Search, Greedy, Queue, Sorting, Monotonic Queue | [Python](solutions/2071-maximum-number-of-tasks-you-can-assign.py) |                      |
+| 2025-05-02 | 838. Push Dominoes  | Two Pointers, String, Dynamic Programming | [Python](solutions/838-push-dominoes.py) |                      |
