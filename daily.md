@@ -15,3 +15,4 @@
 | 2025-04-29 | 1295. Find Numbers with Even Number of Digits  | Array, Math | [Python](solutions/1295-find-numbers-with-even-number-of-digits.py) \| [C++](solutions/1295-find-numbers-with-even-number-of-digits.cpp) |                      |
 | 2025-05-01 | 2071. Maximum Number of Tasks You Can Assign  | Array, Binary Search, Greedy, Queue, Sorting, Monotonic Queue | [Python](solutions/2071-maximum-number-of-tasks-you-can-assign.py) |                      |
 | 2025-05-02 | 838. Push Dominoes  | Two Pointers, String, Dynamic Programming | [Python](solutions/838-push-dominoes.py) |                      |
+| 2025-05-03 | 1007. Minimum Domino Rotations For Equal Row  | Array, Greedy | [Python](solutions/1007-minimum-domino-rotations-for-equal-row.py) \| [C++](solutions/1007-minimum-domino-rotations-for-equal-row.cpp) |                      |

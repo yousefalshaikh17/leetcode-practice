@@ -23,6 +23,7 @@ A list of all topics covered so far, each with the problems I've solved under th
 **682.** Baseball Game: [Python](solutions\682-baseball-game.py)  
 **781.** Rabbits in Forest: [Python](solutions\781-rabbits-in-forest.py)  
 **977.** Squares of a Sorted Array: [Python](solutions\977-squares-of-a-sorted-array.py)  
+**1007.** Minimum Domino Rotations For Equal Row: [C++](solutions\1007-minimum-domino-rotations-for-equal-row.cpp) | [Python](solutions\1007-minimum-domino-rotations-for-equal-row.py)  
 **1295.** Find Numbers with Even Number of Digits: [C++](solutions\1295-find-numbers-with-even-number-of-digits.cpp) | [Python](solutions\1295-find-numbers-with-even-number-of-digits.py)  
 **2071.** Maximum Number of Tasks You Can Assign: [Python](solutions\2071-maximum-number-of-tasks-you-can-assign.py)  
 **2145.** Count the Hidden Sequences: [Python](solutions\2145-count-the-hidden-sequences.py)  
@@ -110,6 +111,13 @@ A list of all topics covered so far, each with the problems I've solved under th
 **838.** Push Dominoes: [Python](solutions\838-push-dominoes.py)  
 **2338.** Count the Number of Ideal Arrays: [Python](solutions\2338-count-the-number-of-ideal-arrays.py)  
 
+## Greedy
+
+**11.** Container With Most Water: [Python](solutions\11-container-with-most-water.py)  
+**781.** Rabbits in Forest: [Python](solutions\781-rabbits-in-forest.py)  
+**1007.** Minimum Domino Rotations For Equal Row: [C++](solutions\1007-minimum-domino-rotations-for-equal-row.cpp) | [Python](solutions\1007-minimum-domino-rotations-for-equal-row.py)  
+**2071.** Maximum Number of Tasks You Can Assign: [Python](solutions\2071-maximum-number-of-tasks-you-can-assign.py)  
+
 ## Prefix Sum
 
 **238.** Product of Array Except Self: [Python](solutions\238-product-of-array-except-self.py)  
@@ -135,12 +143,6 @@ A list of all topics covered so far, each with the problems I've solved under th
 **169.** Majority Element: [Python](solutions\169-majority-element.py)  
 **383.** Ransom Note: [Python](solutions\383-ransom-note.py)  
 **1189.** Maximum Number of Balloons: [Python](solutions\1189-maximum-number-of-balloons.py)  
-
-## Greedy
-
-**11.** Container With Most Water: [Python](solutions\11-container-with-most-water.py)  
-**781.** Rabbits in Forest: [Python](solutions\781-rabbits-in-forest.py)  
-**2071.** Maximum Number of Tasks You Can Assign: [Python](solutions\2071-maximum-number-of-tasks-you-can-assign.py)  
 
 ## Matrix
 
