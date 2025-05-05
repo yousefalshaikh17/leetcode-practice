@@ -195,8 +195,7 @@ def update_readme_topics(topic_names):
 
     # Format new topic list
     new_section = [lines[start_idx], '\n']  # Keep the "## Topics" header
-    sorted_topics = sorted(topic_names, key=lambda name: name.lower())
-    for topic in sorted_topics:
+    for topic in topic_names:
         slug = topic.lower().replace(' ', '-')
         new_section.append(f"- [{topic}](topics.md#{slug})\n")
     new_section += '\n'
