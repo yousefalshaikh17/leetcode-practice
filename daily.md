@@ -17,3 +17,4 @@
 | 2025-05-02 | 838. Push Dominoes  | Two Pointers, String, Dynamic Programming | [Python](solutions/838-push-dominoes.py) |                      |
 | 2025-05-03 | 1007. Minimum Domino Rotations For Equal Row  | Array, Greedy | [Python](solutions/1007-minimum-domino-rotations-for-equal-row.py) \| [C++](solutions/1007-minimum-domino-rotations-for-equal-row.cpp) |                      |
 | 2025-05-04 | 1128. Number of Equivalent Domino Pairs  | Array, Hash Table, Counting | [Python](solutions/1128-number-of-equivalent-domino-pairs.py) |                      |
+| 2025-05-05 | 790. Domino and Tromino Tiling  | Dynamic Programming | [Python](solutions/790-domino-and-tromino-tiling.py) |                      |

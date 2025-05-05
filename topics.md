@@ -110,6 +110,7 @@ A list of all topics covered so far, each with the problems I've solved under th
 **42.** Trapping Rain Water: [Python](solutions\42-trapping-rain-water.py)  
 **121.** Best Time to Buy and Sell Stock: [Python](solutions\121-best-time-to-buy-and-sell-stock.py)  
 **392.** Is Subsequence: [Python](solutions\392-is-subsequence.py)  
+**790.** Domino and Tromino Tiling: [Python](solutions\790-domino-and-tromino-tiling.py)  
 **838.** Push Dominoes: [Python](solutions\838-push-dominoes.py)  
 **2338.** Count the Number of Ideal Arrays: [Python](solutions\2338-count-the-number-of-ideal-arrays.py)  
 
