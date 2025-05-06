@@ -18,3 +18,4 @@
 | 2025-05-03 | 1007. Minimum Domino Rotations For Equal Row  | Array, Greedy | [Python](solutions/1007-minimum-domino-rotations-for-equal-row.py) \| [C++](solutions/1007-minimum-domino-rotations-for-equal-row.cpp) |                      |
 | 2025-05-04 | 1128. Number of Equivalent Domino Pairs  | Array, Hash Table, Counting | [Python](solutions/1128-number-of-equivalent-domino-pairs.py) |                      |
 | 2025-05-05 | 790. Domino and Tromino Tiling  | Dynamic Programming | [Python](solutions/790-domino-and-tromino-tiling.py) |                      |
+| 2025-05-06 | 1920. Build Array from Permutation  | Array, Simulation | [Python](solutions/1920-build-array-from-permutation.py) \| [C++](solutions/1920-build-array-from-permutation.cpp) |                      |

@@ -26,6 +26,7 @@ A list of all topics covered so far, each with the problems I've solved under th
 **1007.** Minimum Domino Rotations For Equal Row: [C++](solutions\1007-minimum-domino-rotations-for-equal-row.cpp) | [Python](solutions\1007-minimum-domino-rotations-for-equal-row.py)  
 **1128.** Number of Equivalent Domino Pairs: [Python](solutions\1128-number-of-equivalent-domino-pairs.py)  
 **1295.** Find Numbers with Even Number of Digits: [C++](solutions\1295-find-numbers-with-even-number-of-digits.cpp) | [Python](solutions\1295-find-numbers-with-even-number-of-digits.py)  
+**1920.** Build Array from Permutation: [C++](solutions\1920-build-array-from-permutation.cpp) | [Python](solutions\1920-build-array-from-permutation.py)  
 **2071.** Maximum Number of Tasks You Can Assign: [Python](solutions\2071-maximum-number-of-tasks-you-can-assign.py)  
 **2145.** Count the Hidden Sequences: [Python](solutions\2145-count-the-hidden-sequences.py)  
 **2239.** Find Closest Number to Zero: [Python](solutions\2239-find-closest-number-to-zero.py)  
@@ -154,6 +155,12 @@ A list of all topics covered so far, each with the problems I've solved under th
 **48.** Rotate Image: [Python](solutions\48-rotate-image.py)  
 **54.** Spiral Matrix: [Python](solutions\54-spiral-matrix.py)  
 
+## Simulation
+
+**54.** Spiral Matrix: [Python](solutions\54-spiral-matrix.py)  
+**682.** Baseball Game: [Python](solutions\682-baseball-game.py)  
+**1920.** Build Array from Permutation: [C++](solutions\1920-build-array-from-permutation.cpp) | [Python](solutions\1920-build-array-from-permutation.py)  
+
 ## Stack
 
 **20.** Valid Parentheses: [Python](solutions\20-valid-parentheses.py)  
@@ -169,11 +176,6 @@ A list of all topics covered so far, each with the problems I've solved under th
 
 **2071.** Maximum Number of Tasks You Can Assign: [Python](solutions\2071-maximum-number-of-tasks-you-can-assign.py)  
 **2444.** Count Subarrays With Fixed Bounds: [C++](solutions\2444-count-subarrays-with-fixed-bounds.cpp) | [Python](solutions\2444-count-subarrays-with-fixed-bounds.py)  
-
-## Simulation
-
-**54.** Spiral Matrix: [Python](solutions\54-spiral-matrix.py)  
-**682.** Baseball Game: [Python](solutions\682-baseball-game.py)  
 
 ## Combinatorics
 
