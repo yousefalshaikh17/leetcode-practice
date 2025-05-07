@@ -35,6 +35,7 @@ A list of all topics covered so far, each with the problems I've solved under th
 **2799.** Count Complete Subarrays in an Array: [Python](solutions\2799-count-complete-subarrays-in-an-array.py)  
 **2845.** Count of Interesting Subarrays: [Python](solutions\2845-count-of-interesting-subarrays.py)  
 **2962.** Count Subarrays Where Max Element Appears at Least K Times: [C++](solutions\2962-count-subarrays-where-max-element-appears-at-least-k-times.cpp) | [Python](solutions\2962-count-subarrays-where-max-element-appears-at-least-k-times.py)  
+**3341.** Find Minimum Time to Reach Last Room I: [C++](solutions\3341-find-minimum-time-to-reach-last-room-i.cpp)  
 **3392.** Count Subarrays of Length Three With a Condition: [C++](solutions\3392-count-subarrays-of-length-three-with-a-condition.cpp) | [Java](solutions\3392-count-subarrays-of-length-three-with-a-condition.java) | [Python](solutions\3392-count-subarrays-of-length-three-with-a-condition.py) | [TypeScript](solutions\3392-count-subarrays-of-length-three-with-a-condition.ts)  
 
 ## Hash Table
@@ -129,6 +130,13 @@ A list of all topics covered so far, each with the problems I've solved under th
 **1007.** Minimum Domino Rotations For Equal Row: [C++](solutions\1007-minimum-domino-rotations-for-equal-row.cpp) | [Python](solutions\1007-minimum-domino-rotations-for-equal-row.py)  
 **2071.** Maximum Number of Tasks You Can Assign: [Python](solutions\2071-maximum-number-of-tasks-you-can-assign.py)  
 
+## Matrix
+
+**36.** Valid Sudoku: [Python](solutions\36-valid-sudoku.py)  
+**48.** Rotate Image: [Python](solutions\48-rotate-image.py)  
+**54.** Spiral Matrix: [Python](solutions\54-spiral-matrix.py)  
+**3341.** Find Minimum Time to Reach Last Room I: [C++](solutions\3341-find-minimum-time-to-reach-last-room-i.cpp)  
+
 ## Prefix Sum
 
 **238.** Product of Array Except Self: [Python](solutions\238-product-of-array-except-self.py)  
@@ -148,12 +156,6 @@ A list of all topics covered so far, each with the problems I've solved under th
 **167.** Two Sum II - Input Array Is Sorted: [Python](solutions\167-two-sum-ii-input-array-is-sorted.py)  
 **2071.** Maximum Number of Tasks You Can Assign: [Python](solutions\2071-maximum-number-of-tasks-you-can-assign.py)  
 **2302.** Count Subarrays With Score Less Than K: [C++](solutions\2302-count-subarrays-with-score-less-than-k.cpp) | [Python](solutions\2302-count-subarrays-with-score-less-than-k.py)  
-
-## Matrix
-
-**36.** Valid Sudoku: [Python](solutions\36-valid-sudoku.py)  
-**48.** Rotate Image: [Python](solutions\48-rotate-image.py)  
-**54.** Spiral Matrix: [Python](solutions\54-spiral-matrix.py)  
 
 ## Simulation
 
@@ -185,6 +187,14 @@ A list of all topics covered so far, each with the problems I've solved under th
 
 **169.** Majority Element: [Python](solutions\169-majority-element.py)  
 
+## Graph
+
+**3341.** Find Minimum Time to Reach Last Room I: [C++](solutions\3341-find-minimum-time-to-reach-last-room-i.cpp)  
+
+## Heap (Priority Queue)
+
+**3341.** Find Minimum Time to Reach Last Room I: [C++](solutions\3341-find-minimum-time-to-reach-last-room-i.cpp)  
+
 ## Linked List
 
 **2.** Add Two Numbers: [Python](solutions\2-add-two-numbers.py)  
@@ -200,6 +210,10 @@ A list of all topics covered so far, each with the problems I've solved under th
 ## Recursion
 
 **2.** Add Two Numbers: [Python](solutions\2-add-two-numbers.py)  
+
+## Shortest Path
+
+**3341.** Find Minimum Time to Reach Last Room I: [C++](solutions\3341-find-minimum-time-to-reach-last-room-i.cpp)  
 
 ## Trie
 
