@@ -20,3 +20,4 @@
 | 2025-05-05 | 790. Domino and Tromino Tiling  | Dynamic Programming | [Python](solutions/790-domino-and-tromino-tiling.py) |                      |
 | 2025-05-06 | 1920. Build Array from Permutation  | Array, Simulation | [Python](solutions/1920-build-array-from-permutation.py) \| [C++](solutions/1920-build-array-from-permutation.cpp) |                      |
 | 2025-05-07 | 3341. Find Minimum Time to Reach Last Room I  | Array, Graph, Heap (Priority Queue), Matrix, Shortest Path | [C++](solutions/3341-find-minimum-time-to-reach-last-room-i.cpp) |                      |
+| 2025-05-07 | 3342. Find Minimum Time to Reach Last Room II  | Array, Graph, Heap (Priority Queue), Matrix, Shortest Path | [C++](solutions/3342-find-minimum-time-to-reach-last-room-ii.cpp) | Very similar to yesterday's question and solution with the exception of the alternating increments.                     |

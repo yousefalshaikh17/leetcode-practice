@@ -36,6 +36,7 @@ A list of all topics covered so far, each with the problems I've solved under th
 **2845.** Count of Interesting Subarrays: [Python](solutions\2845-count-of-interesting-subarrays.py)  
 **2962.** Count Subarrays Where Max Element Appears at Least K Times: [C++](solutions\2962-count-subarrays-where-max-element-appears-at-least-k-times.cpp) | [Python](solutions\2962-count-subarrays-where-max-element-appears-at-least-k-times.py)  
 **3341.** Find Minimum Time to Reach Last Room I: [C++](solutions\3341-find-minimum-time-to-reach-last-room-i.cpp)  
+**3342.** Find Minimum Time to Reach Last Room II: [C++](solutions\3342-find-minimum-time-to-reach-last-room-ii.cpp)  
 **3392.** Count Subarrays of Length Three With a Condition: [C++](solutions\3392-count-subarrays-of-length-three-with-a-condition.cpp) | [Java](solutions\3392-count-subarrays-of-length-three-with-a-condition.java) | [Python](solutions\3392-count-subarrays-of-length-three-with-a-condition.py) | [TypeScript](solutions\3392-count-subarrays-of-length-three-with-a-condition.ts)  
 
 ## Hash Table
@@ -116,6 +117,14 @@ A list of all topics covered so far, each with the problems I've solved under th
 **838.** Push Dominoes: [Python](solutions\838-push-dominoes.py)  
 **2338.** Count the Number of Ideal Arrays: [Python](solutions\2338-count-the-number-of-ideal-arrays.py)  
 
+## Matrix
+
+**36.** Valid Sudoku: [Python](solutions\36-valid-sudoku.py)  
+**48.** Rotate Image: [Python](solutions\48-rotate-image.py)  
+**54.** Spiral Matrix: [Python](solutions\54-spiral-matrix.py)  
+**3341.** Find Minimum Time to Reach Last Room I: [C++](solutions\3341-find-minimum-time-to-reach-last-room-i.cpp)  
+**3342.** Find Minimum Time to Reach Last Room II: [C++](solutions\3342-find-minimum-time-to-reach-last-room-ii.cpp)  
+
 ## Counting
 
 **169.** Majority Element: [Python](solutions\169-majority-element.py)  
@@ -129,13 +138,6 @@ A list of all topics covered so far, each with the problems I've solved under th
 **781.** Rabbits in Forest: [Python](solutions\781-rabbits-in-forest.py)  
 **1007.** Minimum Domino Rotations For Equal Row: [C++](solutions\1007-minimum-domino-rotations-for-equal-row.cpp) | [Python](solutions\1007-minimum-domino-rotations-for-equal-row.py)  
 **2071.** Maximum Number of Tasks You Can Assign: [Python](solutions\2071-maximum-number-of-tasks-you-can-assign.py)  
-
-## Matrix
-
-**36.** Valid Sudoku: [Python](solutions\36-valid-sudoku.py)  
-**48.** Rotate Image: [Python](solutions\48-rotate-image.py)  
-**54.** Spiral Matrix: [Python](solutions\54-spiral-matrix.py)  
-**3341.** Find Minimum Time to Reach Last Room I: [C++](solutions\3341-find-minimum-time-to-reach-last-room-i.cpp)  
 
 ## Prefix Sum
 
@@ -169,6 +171,16 @@ A list of all topics covered so far, each with the problems I've solved under th
 **42.** Trapping Rain Water: [Python](solutions\42-trapping-rain-water.py)  
 **682.** Baseball Game: [Python](solutions\682-baseball-game.py)  
 
+## Graph
+
+**3341.** Find Minimum Time to Reach Last Room I: [C++](solutions\3341-find-minimum-time-to-reach-last-room-i.cpp)  
+**3342.** Find Minimum Time to Reach Last Room II: [C++](solutions\3342-find-minimum-time-to-reach-last-room-ii.cpp)  
+
+## Heap (Priority Queue)
+
+**3341.** Find Minimum Time to Reach Last Room I: [C++](solutions\3341-find-minimum-time-to-reach-last-room-i.cpp)  
+**3342.** Find Minimum Time to Reach Last Room II: [C++](solutions\3342-find-minimum-time-to-reach-last-room-ii.cpp)  
+
 ## Monotonic Queue
 
 **2071.** Maximum Number of Tasks You Can Assign: [Python](solutions\2071-maximum-number-of-tasks-you-can-assign.py)  
@@ -179,6 +191,11 @@ A list of all topics covered so far, each with the problems I've solved under th
 **2071.** Maximum Number of Tasks You Can Assign: [Python](solutions\2071-maximum-number-of-tasks-you-can-assign.py)  
 **2444.** Count Subarrays With Fixed Bounds: [C++](solutions\2444-count-subarrays-with-fixed-bounds.cpp) | [Python](solutions\2444-count-subarrays-with-fixed-bounds.py)  
 
+## Shortest Path
+
+**3341.** Find Minimum Time to Reach Last Room I: [C++](solutions\3341-find-minimum-time-to-reach-last-room-i.cpp)  
+**3342.** Find Minimum Time to Reach Last Room II: [C++](solutions\3342-find-minimum-time-to-reach-last-room-ii.cpp)  
+
 ## Combinatorics
 
 **2338.** Count the Number of Ideal Arrays: [Python](solutions\2338-count-the-number-of-ideal-arrays.py)  
@@ -186,14 +203,6 @@ A list of all topics covered so far, each with the problems I've solved under th
 ## Divide and Conquer
 
 **169.** Majority Element: [Python](solutions\169-majority-element.py)  
-
-## Graph
-
-**3341.** Find Minimum Time to Reach Last Room I: [C++](solutions\3341-find-minimum-time-to-reach-last-room-i.cpp)  
-
-## Heap (Priority Queue)
-
-**3341.** Find Minimum Time to Reach Last Room I: [C++](solutions\3341-find-minimum-time-to-reach-last-room-i.cpp)  
 
 ## Linked List
 
@@ -210,10 +219,6 @@ A list of all topics covered so far, each with the problems I've solved under th
 ## Recursion
 
 **2.** Add Two Numbers: [Python](solutions\2-add-two-numbers.py)  
-
-## Shortest Path
-
-**3341.** Find Minimum Time to Reach Last Room I: [C++](solutions\3341-find-minimum-time-to-reach-last-room-i.cpp)  
 
 ## Trie
 
