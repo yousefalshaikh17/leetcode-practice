@@ -34,6 +34,7 @@ A list of all topics covered so far, each with the problems I've solved under th
 **2444.** Count Subarrays With Fixed Bounds: [C++](solutions\2444-count-subarrays-with-fixed-bounds.cpp) | [Python](solutions\2444-count-subarrays-with-fixed-bounds.py)  
 **2799.** Count Complete Subarrays in an Array: [Python](solutions\2799-count-complete-subarrays-in-an-array.py)  
 **2845.** Count of Interesting Subarrays: [Python](solutions\2845-count-of-interesting-subarrays.py)  
+**2918.** Minimum Equal Sum of Two Arrays After Replacing Zeros: [C++](solutions\2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros.cpp)  
 **2962.** Count Subarrays Where Max Element Appears at Least K Times: [C++](solutions\2962-count-subarrays-where-max-element-appears-at-least-k-times.cpp) | [Python](solutions\2962-count-subarrays-where-max-element-appears-at-least-k-times.py)  
 **3341.** Find Minimum Time to Reach Last Room I: [C++](solutions\3341-find-minimum-time-to-reach-last-room-i.cpp)  
 **3342.** Find Minimum Time to Reach Last Room II: [C++](solutions\3342-find-minimum-time-to-reach-last-room-ii.cpp)  
@@ -120,6 +121,14 @@ A list of all topics covered so far, each with the problems I've solved under th
 **2338.** Count the Number of Ideal Arrays: [Python](solutions\2338-count-the-number-of-ideal-arrays.py)  
 **3343.** Count Number of Balanced Permutations: [C++](solutions\3343-count-number-of-balanced-permutations.cpp)  
 
+## Greedy
+
+**11.** Container With Most Water: [Python](solutions\11-container-with-most-water.py)  
+**781.** Rabbits in Forest: [Python](solutions\781-rabbits-in-forest.py)  
+**1007.** Minimum Domino Rotations For Equal Row: [C++](solutions\1007-minimum-domino-rotations-for-equal-row.cpp) | [Python](solutions\1007-minimum-domino-rotations-for-equal-row.py)  
+**2071.** Maximum Number of Tasks You Can Assign: [Python](solutions\2071-maximum-number-of-tasks-you-can-assign.py)  
+**2918.** Minimum Equal Sum of Two Arrays After Replacing Zeros: [C++](solutions\2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros.cpp)  
+
 ## Matrix
 
 **36.** Valid Sudoku: [Python](solutions\36-valid-sudoku.py)  
@@ -134,13 +143,6 @@ A list of all topics covered so far, each with the problems I've solved under th
 **383.** Ransom Note: [Python](solutions\383-ransom-note.py)  
 **1128.** Number of Equivalent Domino Pairs: [Python](solutions\1128-number-of-equivalent-domino-pairs.py)  
 **1189.** Maximum Number of Balloons: [Python](solutions\1189-maximum-number-of-balloons.py)  
-
-## Greedy
-
-**11.** Container With Most Water: [Python](solutions\11-container-with-most-water.py)  
-**781.** Rabbits in Forest: [Python](solutions\781-rabbits-in-forest.py)  
-**1007.** Minimum Domino Rotations For Equal Row: [C++](solutions\1007-minimum-domino-rotations-for-equal-row.cpp) | [Python](solutions\1007-minimum-domino-rotations-for-equal-row.py)  
-**2071.** Maximum Number of Tasks You Can Assign: [Python](solutions\2071-maximum-number-of-tasks-you-can-assign.py)  
 
 ## Prefix Sum
 
