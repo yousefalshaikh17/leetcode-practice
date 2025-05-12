@@ -26,6 +26,7 @@ A list of all topics covered so far, each with the problems I've solved under th
 **1007.** Minimum Domino Rotations For Equal Row: [C++](solutions\1007-minimum-domino-rotations-for-equal-row.cpp) | [Python](solutions\1007-minimum-domino-rotations-for-equal-row.py)  
 **1128.** Number of Equivalent Domino Pairs: [Python](solutions\1128-number-of-equivalent-domino-pairs.py)  
 **1295.** Find Numbers with Even Number of Digits: [C++](solutions\1295-find-numbers-with-even-number-of-digits.cpp) | [Python](solutions\1295-find-numbers-with-even-number-of-digits.py)  
+**1550.** Three Consecutive Odds: [C++](solutions\1550-three-consecutive-odds.cpp)  
 **1920.** Build Array from Permutation: [C++](solutions\1920-build-array-from-permutation.cpp) | [Python](solutions\1920-build-array-from-permutation.py)  
 **2071.** Maximum Number of Tasks You Can Assign: [Python](solutions\2071-maximum-number-of-tasks-you-can-assign.py)  
 **2145.** Count the Hidden Sequences: [Python](solutions\2145-count-the-hidden-sequences.py)  
