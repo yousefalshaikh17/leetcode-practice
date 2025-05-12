@@ -24,3 +24,4 @@
 | 2025-05-09 | 3343. Count Number of Balanced Permutations  | Math, String, Dynamic Programming, Combinatorics | [C++](solutions/3343-count-number-of-balanced-permutations.cpp) | This one was very difficult. I had to work on it for a while. Need more practice after this!                     |
 | 2025-05-10 | 2918. Minimum Equal Sum of Two Arrays After Replacing Zeros | Array, Greedy | [C++](solutions/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros.cpp) |                      |
 | 2025-05-11 | 1550. Three Consecutive Odds | Array | [C++](solutions/1550-three-consecutive-odds.cpp) |                      |
+| 2025-05-12 | 2094. Finding 3-Digit Even Numbers | Array, Hash Table, Sorting, Enumeration | [C++](solutions/2094-finding-3-digit-even-numbers.cpp) |                      |

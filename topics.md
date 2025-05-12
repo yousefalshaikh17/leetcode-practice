@@ -29,6 +29,7 @@ A list of all topics covered so far, each with the problems I've solved under th
 **1550.** Three Consecutive Odds: [C++](solutions\1550-three-consecutive-odds.cpp)  
 **1920.** Build Array from Permutation: [C++](solutions\1920-build-array-from-permutation.cpp) | [Python](solutions\1920-build-array-from-permutation.py)  
 **2071.** Maximum Number of Tasks You Can Assign: [Python](solutions\2071-maximum-number-of-tasks-you-can-assign.py)  
+**2094.** Finding 3-Digit Even Numbers: [C++](solutions\2094-finding-3-digit-even-numbers.cpp)  
 **2145.** Count the Hidden Sequences: [Python](solutions\2145-count-the-hidden-sequences.py)  
 **2239.** Find Closest Number to Zero: [Python](solutions\2239-find-closest-number-to-zero.py)  
 **2302.** Count Subarrays With Score Less Than K: [C++](solutions\2302-count-subarrays-with-score-less-than-k.cpp) | [Python](solutions\2302-count-subarrays-with-score-less-than-k.py)  
@@ -57,6 +58,7 @@ A list of all topics covered so far, each with the problems I've solved under th
 **1128.** Number of Equivalent Domino Pairs: [Python](solutions\1128-number-of-equivalent-domino-pairs.py)  
 **1189.** Maximum Number of Balloons: [Python](solutions\1189-maximum-number-of-balloons.py)  
 **1399.** Count Largest Group: [Python](solutions\1399-count-largest-group.py)  
+**2094.** Finding 3-Digit Even Numbers: [C++](solutions\2094-finding-3-digit-even-numbers.cpp)  
 **2799.** Count Complete Subarrays in an Array: [Python](solutions\2799-count-complete-subarrays-in-an-array.py)  
 **2845.** Count of Interesting Subarrays: [Python](solutions\2845-count-of-interesting-subarrays.py)  
 
@@ -90,17 +92,6 @@ A list of all topics covered so far, each with the problems I've solved under th
 **977.** Squares of a Sorted Array: [Python](solutions\977-squares-of-a-sorted-array.py)  
 **1768.** Merge Strings Alternately: [Python](solutions\1768-merge-strings-alternately.py)  
 
-## Math
-
-**2.** Add Two Numbers: [Python](solutions\2-add-two-numbers.py)  
-**13.** Roman to Integer: [Python](solutions\13-roman-to-integer.py)  
-**48.** Rotate Image: [Python](solutions\48-rotate-image.py)  
-**781.** Rabbits in Forest: [Python](solutions\781-rabbits-in-forest.py)  
-**1295.** Find Numbers with Even Number of Digits: [C++](solutions\1295-find-numbers-with-even-number-of-digits.cpp) | [Python](solutions\1295-find-numbers-with-even-number-of-digits.py)  
-**1399.** Count Largest Group: [Python](solutions\1399-count-largest-group.py)  
-**2338.** Count the Number of Ideal Arrays: [Python](solutions\2338-count-the-number-of-ideal-arrays.py)  
-**3343.** Count Number of Balanced Permutations: [C++](solutions\3343-count-number-of-balanced-permutations.cpp)  
-
 ## Sorting
 
 **15.** 3Sum: [Python](solutions\15-3sum.py)  
@@ -111,6 +102,18 @@ A list of all topics covered so far, each with the problems I've solved under th
 **242.** Valid Anagram: [Python](solutions\242-valid-anagram.py)  
 **977.** Squares of a Sorted Array: [Python](solutions\977-squares-of-a-sorted-array.py)  
 **2071.** Maximum Number of Tasks You Can Assign: [Python](solutions\2071-maximum-number-of-tasks-you-can-assign.py)  
+**2094.** Finding 3-Digit Even Numbers: [C++](solutions\2094-finding-3-digit-even-numbers.cpp)  
+
+## Math
+
+**2.** Add Two Numbers: [Python](solutions\2-add-two-numbers.py)  
+**13.** Roman to Integer: [Python](solutions\13-roman-to-integer.py)  
+**48.** Rotate Image: [Python](solutions\48-rotate-image.py)  
+**781.** Rabbits in Forest: [Python](solutions\781-rabbits-in-forest.py)  
+**1295.** Find Numbers with Even Number of Digits: [C++](solutions\1295-find-numbers-with-even-number-of-digits.cpp) | [Python](solutions\1295-find-numbers-with-even-number-of-digits.py)  
+**1399.** Count Largest Group: [Python](solutions\1399-count-largest-group.py)  
+**2338.** Count the Number of Ideal Arrays: [Python](solutions\2338-count-the-number-of-ideal-arrays.py)  
+**3343.** Count Number of Balanced Permutations: [C++](solutions\3343-count-number-of-balanced-permutations.cpp)  
 
 ## Dynamic Programming
 
@@ -210,6 +213,10 @@ A list of all topics covered so far, each with the problems I've solved under th
 ## Divide and Conquer
 
 **169.** Majority Element: [Python](solutions\169-majority-element.py)  
+
+## Enumeration
+
+**2094.** Finding 3-Digit Even Numbers: [C++](solutions\2094-finding-3-digit-even-numbers.cpp)  
 
 ## Linked List
 
