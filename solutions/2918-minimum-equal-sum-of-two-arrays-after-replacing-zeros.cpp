@@ -10,7 +10,7 @@ public:
         // Space: O(1)
 
         // Get sums but sub 0s with 1s.
-        int sum1 = 0;
+        long sum1 = 0;
         int zeroCount1 = 0;
         for(const int& num : nums1) {
             sum1 += max(num, 1);
@@ -18,7 +18,7 @@ public:
                 zeroCount1++;
         }
 
-        int sum2 = 0;
+        long sum2 = 0;
         int zeroCount2 = 0;
         for(const int& num : nums2) {
             sum2 += max(num, 1);
