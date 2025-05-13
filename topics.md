@@ -61,6 +61,7 @@ A list of all topics covered so far, each with the problems I've solved under th
 **2094.** Finding 3-Digit Even Numbers: [C++](solutions\2094-finding-3-digit-even-numbers.cpp)  
 **2799.** Count Complete Subarrays in an Array: [Python](solutions\2799-count-complete-subarrays-in-an-array.py)  
 **2845.** Count of Interesting Subarrays: [Python](solutions\2845-count-of-interesting-subarrays.py)  
+**3335.** Total Characters in String After Transformations I: [C++](solutions\3335-total-characters-in-string-after-transformations-i.cpp)  
 
 ## String
 
@@ -77,6 +78,7 @@ A list of all topics covered so far, each with the problems I've solved under th
 **838.** Push Dominoes: [Python](solutions\838-push-dominoes.py)  
 **1189.** Maximum Number of Balloons: [Python](solutions\1189-maximum-number-of-balloons.py)  
 **1768.** Merge Strings Alternately: [Python](solutions\1768-merge-strings-alternately.py)  
+**3335.** Total Characters in String After Transformations I: [C++](solutions\3335-total-characters-in-string-after-transformations-i.cpp)  
 **3343.** Count Number of Balanced Permutations: [C++](solutions\3343-count-number-of-balanced-permutations.cpp)  
 
 ## Two Pointers
@@ -92,6 +94,18 @@ A list of all topics covered so far, each with the problems I've solved under th
 **977.** Squares of a Sorted Array: [Python](solutions\977-squares-of-a-sorted-array.py)  
 **1768.** Merge Strings Alternately: [Python](solutions\1768-merge-strings-alternately.py)  
 
+## Math
+
+**2.** Add Two Numbers: [Python](solutions\2-add-two-numbers.py)  
+**13.** Roman to Integer: [Python](solutions\13-roman-to-integer.py)  
+**48.** Rotate Image: [Python](solutions\48-rotate-image.py)  
+**781.** Rabbits in Forest: [Python](solutions\781-rabbits-in-forest.py)  
+**1295.** Find Numbers with Even Number of Digits: [C++](solutions\1295-find-numbers-with-even-number-of-digits.cpp) | [Python](solutions\1295-find-numbers-with-even-number-of-digits.py)  
+**1399.** Count Largest Group: [Python](solutions\1399-count-largest-group.py)  
+**2338.** Count the Number of Ideal Arrays: [Python](solutions\2338-count-the-number-of-ideal-arrays.py)  
+**3335.** Total Characters in String After Transformations I: [C++](solutions\3335-total-characters-in-string-after-transformations-i.cpp)  
+**3343.** Count Number of Balanced Permutations: [C++](solutions\3343-count-number-of-balanced-permutations.cpp)  
+
 ## Sorting
 
 **15.** 3Sum: [Python](solutions\15-3sum.py)  
@@ -104,17 +118,6 @@ A list of all topics covered so far, each with the problems I've solved under th
 **2071.** Maximum Number of Tasks You Can Assign: [Python](solutions\2071-maximum-number-of-tasks-you-can-assign.py)  
 **2094.** Finding 3-Digit Even Numbers: [C++](solutions\2094-finding-3-digit-even-numbers.cpp)  
 
-## Math
-
-**2.** Add Two Numbers: [Python](solutions\2-add-two-numbers.py)  
-**13.** Roman to Integer: [Python](solutions\13-roman-to-integer.py)  
-**48.** Rotate Image: [Python](solutions\48-rotate-image.py)  
-**781.** Rabbits in Forest: [Python](solutions\781-rabbits-in-forest.py)  
-**1295.** Find Numbers with Even Number of Digits: [C++](solutions\1295-find-numbers-with-even-number-of-digits.cpp) | [Python](solutions\1295-find-numbers-with-even-number-of-digits.py)  
-**1399.** Count Largest Group: [Python](solutions\1399-count-largest-group.py)  
-**2338.** Count the Number of Ideal Arrays: [Python](solutions\2338-count-the-number-of-ideal-arrays.py)  
-**3343.** Count Number of Balanced Permutations: [C++](solutions\3343-count-number-of-balanced-permutations.cpp)  
-
 ## Dynamic Programming
 
 **42.** Trapping Rain Water: [Python](solutions\42-trapping-rain-water.py)  
@@ -123,7 +126,16 @@ A list of all topics covered so far, each with the problems I've solved under th
 **790.** Domino and Tromino Tiling: [Python](solutions\790-domino-and-tromino-tiling.py)  
 **838.** Push Dominoes: [Python](solutions\838-push-dominoes.py)  
 **2338.** Count the Number of Ideal Arrays: [Python](solutions\2338-count-the-number-of-ideal-arrays.py)  
+**3335.** Total Characters in String After Transformations I: [C++](solutions\3335-total-characters-in-string-after-transformations-i.cpp)  
 **3343.** Count Number of Balanced Permutations: [C++](solutions\3343-count-number-of-balanced-permutations.cpp)  
+
+## Counting
+
+**169.** Majority Element: [Python](solutions\169-majority-element.py)  
+**383.** Ransom Note: [Python](solutions\383-ransom-note.py)  
+**1128.** Number of Equivalent Domino Pairs: [Python](solutions\1128-number-of-equivalent-domino-pairs.py)  
+**1189.** Maximum Number of Balloons: [Python](solutions\1189-maximum-number-of-balloons.py)  
+**3335.** Total Characters in String After Transformations I: [C++](solutions\3335-total-characters-in-string-after-transformations-i.cpp)  
 
 ## Greedy
 
@@ -140,13 +152,6 @@ A list of all topics covered so far, each with the problems I've solved under th
 **54.** Spiral Matrix: [Python](solutions\54-spiral-matrix.py)  
 **3341.** Find Minimum Time to Reach Last Room I: [C++](solutions\3341-find-minimum-time-to-reach-last-room-i.cpp)  
 **3342.** Find Minimum Time to Reach Last Room II: [C++](solutions\3342-find-minimum-time-to-reach-last-room-ii.cpp)  
-
-## Counting
-
-**169.** Majority Element: [Python](solutions\169-majority-element.py)  
-**383.** Ransom Note: [Python](solutions\383-ransom-note.py)  
-**1128.** Number of Equivalent Domino Pairs: [Python](solutions\1128-number-of-equivalent-domino-pairs.py)  
-**1189.** Maximum Number of Balloons: [Python](solutions\1189-maximum-number-of-balloons.py)  
 
 ## Prefix Sum
 

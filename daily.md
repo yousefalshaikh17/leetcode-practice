@@ -25,3 +25,4 @@
 | 2025-05-10 | 2918. Minimum Equal Sum of Two Arrays After Replacing Zeros | Array, Greedy | [C++](solutions/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros.cpp) |                      |
 | 2025-05-11 | 1550. Three Consecutive Odds | Array | [C++](solutions/1550-three-consecutive-odds.cpp) |                      |
 | 2025-05-12 | 2094. Finding 3-Digit Even Numbers | Array, Hash Table, Sorting, Enumeration | [C++](solutions/2094-finding-3-digit-even-numbers.cpp) |                      |
+| 2025-05-13 | 3335. Total Characters in String After Transformations I | Array, Hash Table, Counting | [C++](solutions/3335-total-characters-in-string-after-transformations-i.cpp) |                      |
