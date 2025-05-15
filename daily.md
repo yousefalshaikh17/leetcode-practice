@@ -27,3 +27,4 @@
 | 2025-05-12 | 2094. Finding 3-Digit Even Numbers | Array, Hash Table, Sorting, Enumeration | [C++](solutions/2094-finding-3-digit-even-numbers.cpp) |                      |
 | 2025-05-13 | 3335. Total Characters in String After Transformations I | Array, Hash Table, Counting | [C++](solutions/3335-total-characters-in-string-after-transformations-i.cpp) |                      |
 | 2025-05-14 | 3337. Total Characters in String After Transformations II | Hash Table, Math, String, Dynamic Programming, Counting | [C++](solutions/3337-total-characters-in-string-after-transformations-ii.cpp) |                      |
+| 2025-05-15 | 2900. Longest Unequal Adjacent Groups Subsequence I | Array, String, Dynamic Programming, Greedy | [C++](solutions/2900-longest-unequal-adjacent-groups-subsequence-i.cpp) |                      |

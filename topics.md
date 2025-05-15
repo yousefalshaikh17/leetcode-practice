@@ -36,6 +36,7 @@ A list of all topics covered so far, each with the problems I've solved under th
 **2444.** Count Subarrays With Fixed Bounds: [C++](solutions\2444-count-subarrays-with-fixed-bounds.cpp) | [Python](solutions\2444-count-subarrays-with-fixed-bounds.py)  
 **2799.** Count Complete Subarrays in an Array: [Python](solutions\2799-count-complete-subarrays-in-an-array.py)  
 **2845.** Count of Interesting Subarrays: [Python](solutions\2845-count-of-interesting-subarrays.py)  
+**2900.** Longest Unequal Adjacent Groups Subsequence I: [C++](solutions\2900-longest-unequal-adjacent-groups-subsequence-i.cpp)  
 **2918.** Minimum Equal Sum of Two Arrays After Replacing Zeros: [C++](solutions\2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros.cpp)  
 **2962.** Count Subarrays Where Max Element Appears at Least K Times: [C++](solutions\2962-count-subarrays-where-max-element-appears-at-least-k-times.cpp) | [Python](solutions\2962-count-subarrays-where-max-element-appears-at-least-k-times.py)  
 **3341.** Find Minimum Time to Reach Last Room I: [C++](solutions\3341-find-minimum-time-to-reach-last-room-i.cpp)  
@@ -79,6 +80,20 @@ A list of all topics covered so far, each with the problems I've solved under th
 **838.** Push Dominoes: [Python](solutions\838-push-dominoes.py)  
 **1189.** Maximum Number of Balloons: [Python](solutions\1189-maximum-number-of-balloons.py)  
 **1768.** Merge Strings Alternately: [Python](solutions\1768-merge-strings-alternately.py)  
+**2900.** Longest Unequal Adjacent Groups Subsequence I: [C++](solutions\2900-longest-unequal-adjacent-groups-subsequence-i.cpp)  
+**3335.** Total Characters in String After Transformations I: [C++](solutions\3335-total-characters-in-string-after-transformations-i.cpp)  
+**3337.** Total Characters in String After Transformations II: [C++](solutions\3337-total-characters-in-string-after-transformations-ii.cpp)  
+**3343.** Count Number of Balanced Permutations: [C++](solutions\3343-count-number-of-balanced-permutations.cpp)  
+
+## Dynamic Programming
+
+**42.** Trapping Rain Water: [Python](solutions\42-trapping-rain-water.py)  
+**121.** Best Time to Buy and Sell Stock: [Python](solutions\121-best-time-to-buy-and-sell-stock.py)  
+**392.** Is Subsequence: [Python](solutions\392-is-subsequence.py)  
+**790.** Domino and Tromino Tiling: [Python](solutions\790-domino-and-tromino-tiling.py)  
+**838.** Push Dominoes: [Python](solutions\838-push-dominoes.py)  
+**2338.** Count the Number of Ideal Arrays: [Python](solutions\2338-count-the-number-of-ideal-arrays.py)  
+**2900.** Longest Unequal Adjacent Groups Subsequence I: [C++](solutions\2900-longest-unequal-adjacent-groups-subsequence-i.cpp)  
 **3335.** Total Characters in String After Transformations I: [C++](solutions\3335-total-characters-in-string-after-transformations-i.cpp)  
 **3337.** Total Characters in String After Transformations II: [C++](solutions\3337-total-characters-in-string-after-transformations-ii.cpp)  
 **3343.** Count Number of Balanced Permutations: [C++](solutions\3343-count-number-of-balanced-permutations.cpp)  
@@ -109,18 +124,6 @@ A list of all topics covered so far, each with the problems I've solved under th
 **977.** Squares of a Sorted Array: [Python](solutions\977-squares-of-a-sorted-array.py)  
 **1768.** Merge Strings Alternately: [Python](solutions\1768-merge-strings-alternately.py)  
 
-## Dynamic Programming
-
-**42.** Trapping Rain Water: [Python](solutions\42-trapping-rain-water.py)  
-**121.** Best Time to Buy and Sell Stock: [Python](solutions\121-best-time-to-buy-and-sell-stock.py)  
-**392.** Is Subsequence: [Python](solutions\392-is-subsequence.py)  
-**790.** Domino and Tromino Tiling: [Python](solutions\790-domino-and-tromino-tiling.py)  
-**838.** Push Dominoes: [Python](solutions\838-push-dominoes.py)  
-**2338.** Count the Number of Ideal Arrays: [Python](solutions\2338-count-the-number-of-ideal-arrays.py)  
-**3335.** Total Characters in String After Transformations I: [C++](solutions\3335-total-characters-in-string-after-transformations-i.cpp)  
-**3337.** Total Characters in String After Transformations II: [C++](solutions\3337-total-characters-in-string-after-transformations-ii.cpp)  
-**3343.** Count Number of Balanced Permutations: [C++](solutions\3343-count-number-of-balanced-permutations.cpp)  
-
 ## Sorting
 
 **15.** 3Sum: [Python](solutions\15-3sum.py)  
@@ -148,6 +151,7 @@ A list of all topics covered so far, each with the problems I've solved under th
 **781.** Rabbits in Forest: [Python](solutions\781-rabbits-in-forest.py)  
 **1007.** Minimum Domino Rotations For Equal Row: [C++](solutions\1007-minimum-domino-rotations-for-equal-row.cpp) | [Python](solutions\1007-minimum-domino-rotations-for-equal-row.py)  
 **2071.** Maximum Number of Tasks You Can Assign: [Python](solutions\2071-maximum-number-of-tasks-you-can-assign.py)  
+**2900.** Longest Unequal Adjacent Groups Subsequence I: [C++](solutions\2900-longest-unequal-adjacent-groups-subsequence-i.cpp)  
 **2918.** Minimum Equal Sum of Two Arrays After Replacing Zeros: [C++](solutions\2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros.cpp)  
 
 ## Matrix
