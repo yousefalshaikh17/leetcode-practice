@@ -13,6 +13,7 @@ A list of all topics covered so far, each with the problems I've solved under th
 **49.** Group Anagrams: [Python](solutions\49-group-anagrams.py)  
 **54.** Spiral Matrix: [Python](solutions\54-spiral-matrix.py)  
 **56.** Merge Intervals: [Python](solutions\56-merge-intervals.py)  
+**75.** Sort Colors: [C++](solutions\75-sort-colors.cpp)  
 **121.** Best Time to Buy and Sell Stock: [Python](solutions\121-best-time-to-buy-and-sell-stock.py)  
 **128.** Longest Consecutive Sequence: [Python](solutions\128-longest-consecutive-sequence.py)  
 **167.** Two Sum II - Input Array Is Sorted: [Python](solutions\167-two-sum-ii-input-array-is-sorted.py)  
@@ -101,6 +102,20 @@ A list of all topics covered so far, each with the problems I've solved under th
 **3337.** Total Characters in String After Transformations II: [C++](solutions\3337-total-characters-in-string-after-transformations-ii.cpp)  
 **3343.** Count Number of Balanced Permutations: [C++](solutions\3343-count-number-of-balanced-permutations.cpp)  
 
+## Two Pointers
+
+**11.** Container With Most Water: [Python](solutions\11-container-with-most-water.py)  
+**15.** 3Sum: [Python](solutions\15-3sum.py)  
+**42.** Trapping Rain Water: [Python](solutions\42-trapping-rain-water.py)  
+**75.** Sort Colors: [C++](solutions\75-sort-colors.cpp)  
+**125.** Valid Palindrome: [Python](solutions\125-valid-palindrome.py)  
+**167.** Two Sum II - Input Array Is Sorted: [Python](solutions\167-two-sum-ii-input-array-is-sorted.py)  
+**344.** Reverse String: [Python](solutions\344-reverse-string.py)  
+**392.** Is Subsequence: [Python](solutions\392-is-subsequence.py)  
+**838.** Push Dominoes: [Python](solutions\838-push-dominoes.py)  
+**977.** Squares of a Sorted Array: [Python](solutions\977-squares-of-a-sorted-array.py)  
+**1768.** Merge Strings Alternately: [Python](solutions\1768-merge-strings-alternately.py)  
+
 ## Math
 
 **2.** Add Two Numbers: [Python](solutions\2-add-two-numbers.py)  
@@ -114,24 +129,12 @@ A list of all topics covered so far, each with the problems I've solved under th
 **3337.** Total Characters in String After Transformations II: [C++](solutions\3337-total-characters-in-string-after-transformations-ii.cpp)  
 **3343.** Count Number of Balanced Permutations: [C++](solutions\3343-count-number-of-balanced-permutations.cpp)  
 
-## Two Pointers
-
-**11.** Container With Most Water: [Python](solutions\11-container-with-most-water.py)  
-**15.** 3Sum: [Python](solutions\15-3sum.py)  
-**42.** Trapping Rain Water: [Python](solutions\42-trapping-rain-water.py)  
-**125.** Valid Palindrome: [Python](solutions\125-valid-palindrome.py)  
-**167.** Two Sum II - Input Array Is Sorted: [Python](solutions\167-two-sum-ii-input-array-is-sorted.py)  
-**344.** Reverse String: [Python](solutions\344-reverse-string.py)  
-**392.** Is Subsequence: [Python](solutions\392-is-subsequence.py)  
-**838.** Push Dominoes: [Python](solutions\838-push-dominoes.py)  
-**977.** Squares of a Sorted Array: [Python](solutions\977-squares-of-a-sorted-array.py)  
-**1768.** Merge Strings Alternately: [Python](solutions\1768-merge-strings-alternately.py)  
-
 ## Sorting
 
 **15.** 3Sum: [Python](solutions\15-3sum.py)  
 **49.** Group Anagrams: [Python](solutions\49-group-anagrams.py)  
 **56.** Merge Intervals: [Python](solutions\56-merge-intervals.py)  
+**75.** Sort Colors: [C++](solutions\75-sort-colors.cpp)  
 **169.** Majority Element: [Python](solutions\169-majority-element.py)  
 **217.** Contains Duplicate: [Python](solutions\217-contains-duplicate.py)  
 **242.** Valid Anagram: [Python](solutions\242-valid-anagram.py)  

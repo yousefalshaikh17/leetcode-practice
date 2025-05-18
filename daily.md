@@ -29,3 +29,4 @@
 | 2025-05-14 | 3337. Total Characters in String After Transformations II | Hash Table, Math, String, Dynamic Programming, Counting | [C++](solutions/3337-total-characters-in-string-after-transformations-ii.cpp) |                      |
 | 2025-05-15 | 2900. Longest Unequal Adjacent Groups Subsequence I | Array, String, Dynamic Programming, Greedy | [C++](solutions/2900-longest-unequal-adjacent-groups-subsequence-i.cpp) |                      |
 | 2025-05-16 | 2901. Longest Unequal Adjacent Groups Subsequence II | Array, String, Dynamic Programming | [C++](solutions/2901-longest-unequal-adjacent-groups-subsequence-ii.cpp) |                      |
+| 2025-05-17 | 75. Sort Colors | Array, Two Pointers, Sorting | [C++](solutions/75-sort-colors.cpp) |                      |
