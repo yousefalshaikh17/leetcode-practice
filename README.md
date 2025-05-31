@@ -2,6 +2,9 @@
 
 Practicing one LeetCode problem every day to sharpen my problem-solving skills. Each solution includes topics for easy reference.
 
+## Note
+As of 2025-05-17, daily practice is being put on hold in order to focus on freelancing & a bootcamp I am enrolled in.
+
 ## Features
 - Daily Log
 - Topics Section
